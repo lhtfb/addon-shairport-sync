@@ -3,7 +3,7 @@
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]](LICENSE)
 
-Enables Airplay audio streaming to Home Assistant.
+Enables Airplay2 audio streaming to Home Assistant.
 
 ## Docker status
 
