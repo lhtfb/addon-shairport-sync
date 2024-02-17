@@ -30,6 +30,7 @@ RUN apk -U add \
         --with-ssl=openssl \
         --with-soxr \
         --with-metadata \
+        -with-airplay-2 \
  && make \
  && make install \
  && cd / \
